@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Favourite Programming Language</h1>
+    <h2>My top 3 most favourite programming languages</h2><hr>
+    <h3>Javascript</h3>
+    <p>Javascript is the introduction to Web Developement</p>
+    <h3>Python</h3>
+    <p>Python can be used in all the domain of technologies</p>
+    <h3>Rust</h3>
+    <p>With features of memory efficiency and speed of execution, Rust has the capability to replace C and C++</p>
+</body>
+</html>
