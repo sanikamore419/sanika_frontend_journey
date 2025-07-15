@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form>
+      <label>First name:</label>
+      <input type="text" /><br /><br />
+      <label>Password:</label>
+      <input type="password" /><br /><br />
+      <label>Gender:</label>
+      <input type="radio">Male
+      <input type="radio">Female
+      <br><br>
+      <label>Select Coures:</label>
+      <input type="checkbox">Python
+      <input type="checkbox">Java
+      <input type="checkbox">Rust
+      <br><br>
+      <input type="date"><br><br>
+      <label>Enter Email:</label>
+      <input type="email"><br><br>
+      <input type="reset" value="Reset"><br><br>
+      <input type="submit" value="Click here"><br><br>
+    </form>
+  </body>
+</html>
