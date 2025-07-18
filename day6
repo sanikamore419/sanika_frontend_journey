@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      h1 {
+        background-color: lightcoral;
+      }
+      p {
+        background-color: lightseagreen;
+      }
+      .division {
+        background-color: crimson;
+      }
+      .container {
+        display: inline-flex;
+      }
+      *{
+        height: 100px;
+        width: 200px;
+        margin: 10px;
+        padding: 10px;
+        gap: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hello</h1>
+      <p>Paragraph1</p>
+      <div class="division">This is division</div>
+    </div>
+  </body>
+</html>
