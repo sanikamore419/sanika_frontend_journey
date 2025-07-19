@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      img {
+        float: left;
+        
+      }
+      #Sunflowers {
+        width: 400px;
+        height: 400px;
+        background-color: blueviolet;
+        padding: 10px;
+      }
+      #Road{
+        width: 400px;
+        height: 400px;
+        background-color: palevioletred;
+        padding: 10px;
+        margin-left: 650px;
+      }
+      div{
+        display: inline-block;
+      }
+      footer {
+        clear:both;
+        background-color: lightblue;
+        text-align: center;
+        color: black;
+        
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="Sunflowers">
+      <p>
+        <h1>Sunflowers</h1>
+        <img src="90e395d6bbb5ec7f230d16ff6f0febc1.jpg" alt="Sunflowers" height="200px" width="200px" />
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam
+        voluptatibus, cumque, tempora, consectetur veritatis, nemo ipsum ad
+        cumque, tempora, consectetur veritatis, nemo ipsum ad exercitationem
+        numquam iusto. Suscipit ratione harum dolor praesentium debitis voluptas
+        libero ad veritatis rem molestias dignissimos corporis, tempora labore,
+        incidunt minus eveniet reiciendis assumenda aut nostrum? Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Aspernatur quae voluptates
+        excepturi numquam vitae. Provident iure cum neque molestiae? Incidunt,
+        excepturi eaque officia impedit sunt nulla molestias quasi inventore ad?
+      </p>
+    </div>
+    <div id="Road">
+      <p>
+        <h1>Road</h1>
+        <img src="0e7159e0548ee9771e88b8fe9b409c46.jpg" alt="Roads" height="200px" width="200px" />
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam
+        voluptatibus, cumque, tempora, consectetur veritatis, nemo ipsum ad
+        cumque, tempora, consectetur veritatis, nemo ipsum ad exercitationem
+        numquam iusto. Suscipit ratione harum dolor praesentium debitis voluptas
+        libero ad veritatis rem molestias dignissimos corporis, tempora labore,
+        incidunt minus eveniet reiciendis assumenda aut nostrum? Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Aspernatur quae voluptates
+        excepturi numquam vitae. Provident iure cum neque molestiae? Incidunt,
+        excepturi eaque officia impedit sunt nulla molestias quasi inventore ad?
+      </p>
+    </div>
+    <footer>
+        <p>Thank You</p>
+    </footer>
+  </body>
+</html>
