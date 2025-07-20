@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .Flipkart {
+        display: flex;
+        background-color:aquamarine;
+        justify-content: space-between;
+        padding: 10px;
+        
+      }
+      .container {
+        display: flex;
+        height: 100px;
+        gap: 10px;
+        align-items: center;
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+      }
+      .Home {
+        display: flex;
+        gap:50px;
+        align-items: center;
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        margin-left: 100px;
+        color: darkblue;
+        font-weight: bold;
+        font-size: large;
+      }
+        
+      
+    </style>
+  </head>
+  <body>
+    <div class="Flipkart">
+      <div class="container">
+        <img src="APvl1yYS_400x400.png" alt="Image" height="50" width="50" />
+        <!-- <img src="flipkart-logo_brandlogos.net_cfwyw.png" alt="Flipkart Logo" height="50" width="50"> -->
+        <h1>Flipkart</h1>
+      </div>
+      <div class="Home" style="margin-left: 300px;">
+        <p>Home</p>
+        <p>About</p>
+        <p>Contact</p>
+        <p>Services</p>
+        <p>Products</p>
+      </div>
+      <div class="cart" style="margin-left: 400px;">
+        <img src="images.png" alt="Search Icon" margin-right=60px; height="100" width="100" />
+      </div>
+    </div>
+  </body>
+</html>
