@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            
+        }
+        img{
+            border: 10px solid white;
+            border-radius: 10px;
+            display: block;
+        }
+        h1{
+            text-align: center;
+            color: white;
+            display: block;
+
+        }
+        p{
+            text-align: center;
+            color: white;
+            font-size: 20px;
+            display: block;
+        }
+        
+    </style>
+</head>
+<body>
+    <img src="adee957376a7c9e36f0e4194e9af9727.jpg" alt="image" height="500px" width="500px" ><br>
+    <h1>THAT SPECIAL MOMENT</h1>
+    <p>When parents give you permission to go on trip..</p>
+</body>
+</html>
